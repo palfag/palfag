@@ -7,8 +7,8 @@
 - 👋 Hi, I’m Paolo!
 - 👨‍💻 Passionate about Computer Networks and Cybersecurity.
 - 💻 Graduated in Computer Science at the University of Turin, Italy (UniTo).
-- 📚 Attending a First-Level Master in Cybersecurity at UniTo.
-- 💼 IT security consultant at Certimeter Group.
+- 📚 First-Level Master in Cybersecurity at UniTo.
+- 💼 IT security consultant at Certimeter (Lutech Group).
 - 🔍 ISO/IEC 27001:2022 Lead Auditor
 - 🔑 eJPT certified
 
